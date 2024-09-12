@@ -1,8 +1,0 @@
-Inciar el Contenedor:
-docker-compose up --build -d
-
-Detener y Eliminar el Contenedor:
-docker-compose down
-
-
-para ejecutar todo solo es necesario tener Docker instalado en tu computador
