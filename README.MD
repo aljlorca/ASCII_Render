@@ -24,6 +24,8 @@ Sigue estos pasos para instalar y ejecutar la aplicación en tu entorno local:
 
 ## Uso
 
+0. Host en aljlorca.pythonanywhere.com
+
 1. Inicia el servidor en Docker con el comando:
 
     ```bash
